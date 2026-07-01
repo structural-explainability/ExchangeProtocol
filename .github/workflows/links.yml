@@ -32,7 +32,7 @@ jobs:
       pull-requests: write
 
     steps:
-      - uses: actions/checkout@v6 # OBS: v6 current as of Dec 2025
+      - uses: actions/checkout@v7 # OBS: v6 current as of Dec 2025
 
       # WHY: Check all documentation and config files for broken links
       - name: Check links with Lychee

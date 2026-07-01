@@ -12,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v6 # OBS: v6 current as of Dec 2025
+      - uses: actions/checkout@v7 # OBS: v6 current as of Dec 2025
       - uses: leanprover/lean-action@v1
