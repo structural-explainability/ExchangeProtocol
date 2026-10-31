@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 import StructuralExplainability.ExchangeProtocol.Core.Record.Entity.EntityExamples
 import StructuralExplainability.ExchangeProtocol.Core.Record.Entity.EntityOps
 import StructuralExplainability.ExchangeProtocol.Core.Record.Entity.EntityRecord

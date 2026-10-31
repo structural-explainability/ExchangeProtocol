@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 import StructuralExplainability.ExchangeProtocol.Core
 import StructuralExplainability.ExchangeProtocol.Graph
 import StructuralExplainability.ExchangeProtocol.Vocabulary.Vocabulary

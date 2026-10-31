@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 import StructuralExplainability.ExchangeProtocol.Core.Base.Ids
 import StructuralExplainability.ExchangeProtocol.Core.Model.Retention
 import StructuralExplainability.ExchangeProtocol.Core.Shared.RecordEnvelope

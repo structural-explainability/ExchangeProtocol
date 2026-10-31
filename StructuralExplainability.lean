@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 -- REQ.LIBRARY.ROOT:
 --   Public library root for this package.
 --

@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 import StructuralExplainability.ExchangeProtocol.Graph.ConsentPropagation
 import StructuralExplainability.ExchangeProtocol.Graph.Coverage
 import StructuralExplainability.ExchangeProtocol.Graph.Dependency

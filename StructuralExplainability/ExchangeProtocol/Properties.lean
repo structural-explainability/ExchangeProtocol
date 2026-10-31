@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 -- StructuralExplainability/ExchangeProtocol/Properties.lean
 --
 -- REQ.EP.PROPERTIES.PUBLIC:

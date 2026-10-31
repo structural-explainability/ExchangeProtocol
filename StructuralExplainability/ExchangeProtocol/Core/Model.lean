@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 import StructuralExplainability.ExchangeProtocol.Core.Model.Consent
 import StructuralExplainability.ExchangeProtocol.Core.Model.CTag
 import StructuralExplainability.ExchangeProtocol.Core.Model.IdentifierScheme
